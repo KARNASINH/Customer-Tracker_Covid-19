@@ -2,8 +2,8 @@
 
 ## Introduction
 
-This is an IOT project. This project is based on real time situation that is Covid-19.
-Now a days it is compulsary to keep a security person at the entrance of public area such  as; grocery store, Language proficiency test centers, Ontraio service center and so on to maintain total person's strength inside the public premises which helps to keep a safe distance (2 Meter) between two person.
+•	This is an Internet Of Things project. This project is based on real time situation that is Covid-19. 
+Now a day it is compulsory to keep a security person at the entrance of public area such as; grocery store, Language proficiency test centers, Ontario service center and so on to maintain total person's strength inside the public premises which helps to keep a safe distance (2 Meter) between two persons.
 
 ## Project features
 
