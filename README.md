@@ -26,4 +26,12 @@ Now a days it is compulsary to keep a security person at the entrance of public 
  - [ ] One time setup and very accurate compare to track by human.
  - [ ] Different alerts such as Red/Green lights, siren can be setup to anywhere in the store so that store manager, owner can easily see and track the situation.
 
+## Note
+
+This tracker works for pre-defined capacity of 5 person to check working condition of the code.
+
 ## Screenshots
+
+![1](https://user-images.githubusercontent.com/75551627/117237119-38b7db00-adf8-11eb-9f5a-c33df1a857b9.JPG)
+![2](https://user-images.githubusercontent.com/75551627/117237123-3bb2cb80-adf8-11eb-885e-eea1e0d8a97c.JPG)
+![3](https://user-images.githubusercontent.com/75551627/117237124-3bb2cb80-adf8-11eb-8106-f5efd47b51e8.JPG)
