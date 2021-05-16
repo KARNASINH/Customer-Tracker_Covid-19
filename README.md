@@ -13,7 +13,7 @@ Now a day it is compulsory to keep a security person at the entrance of public a
 
 ## Programming Language used
 
- - [ ] C and C++
+ - [x] C and C++
 
 ## How codes work
 
@@ -22,9 +22,9 @@ Now a day it is compulsory to keep a security person at the entrance of public a
 
 ## Advantages
 
- - [ ] No need to appoint a security person which saves almost 1800 CAD/month of the store owner.
- - [ ] One time setup and very accurate compare to track by human.
- - [ ] Different alerts such as Red/Green lights, siren can be setup to anywhere in the store so that store manager, owner can easily see and track the situation.
+ - [x] No need to appoint a security person which saves almost 1800 CAD/month of the store owner.
+ - [x] One time setup and very accurate compare to track by human.
+ - [x] Different alerts such as Red/Green lights, siren can be setup to anywhere in the store so that store manager, owner can easily see and track the situation.
 
 ## Note
 
